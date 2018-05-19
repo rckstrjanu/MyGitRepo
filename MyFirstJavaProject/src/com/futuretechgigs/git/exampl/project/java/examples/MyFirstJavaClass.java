@@ -7,7 +7,7 @@ package com.futuretechgigs.git.exampl.project.java.examples;
  *
  */
 public class MyFirstJavaClass {
-
+*******************************
 	/**
 	 * Main method
 	 * 
