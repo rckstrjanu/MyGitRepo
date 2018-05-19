@@ -13,7 +13,7 @@ public class MyFirstJavaClass {
 	 * 
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] ) {
 
 		System.out.println("Welcome to the FutureTechgigs Git Configuration tutorial.");
 
