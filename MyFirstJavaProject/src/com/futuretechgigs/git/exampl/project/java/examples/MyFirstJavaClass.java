@@ -15,7 +15,7 @@ public class MyFirstJavaClass {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to the FutureTechgigs Git Configuration tutorial.");
+		System.out.println("Adding a new command ");
 
 	}
 
